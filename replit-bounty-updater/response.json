@@ -1,0 +1,104 @@
+[
+    {
+        "data": {
+            "bountySearch": {
+                "__typename": "BountySearchConnection",
+                "items": [
+                    {
+                        "id": 1989,
+                        "title": "Integrate mapbox to display nearby custom pins",
+                        "descriptionPreview": "Problem Description\nIntegrate map-box to display nearby custom location pins based on a suburb address.\n\nAcceptance Criteria\nMapbox should be displayed on all location pages.\nA custom pin should be created for all centres (approx 2k) based on their address. this data will be provided in a json.\nMapbox should be zoomed into show nearby pins based on the location of the page. ie. Adelaide page should show Adelaide pins on initial mapbox load\nEach centre should have a static image of the map zoomed into the specific location saved a json file.\nWhen a user clicks on a pin show a pop up with custom pin name, description and link to contact. (I will provide this data in a json file)\nSubmit a PR within existing codebase which you'll have access to.",
+                        "cycles": 4000,
+                        "deadline": "2023-04-16T00:00:00.000Z",
+                        "status": "open",
+                        "slug": "integrate-mapbox-to",
+                        "solverPayout": 3600,
+                        "timeCreated": "2023-04-11T11:55:01.919Z",
+                        "applicationCount": 1,
+                        "isUnlisted": false,
+                        "solver": null,
+                        "user": {
+                            "id": 14904721,
+                            "username": "JSR2",
+                            "image": "https://www.gravatar.com/avatar/68ff7e2ca7de607824734617e22189a4?d=https://replit.com/public/images/evalbot/evalbot_36.png&s=256",
+                            "url": "/@JSR2",
+                            "__typename": "User"
+                        },
+                        "__typename": "Bounty"
+                    },
+                    {
+                        "id": 1988,
+                        "title": "Make my landing page responsive to screen size",
+                        "descriptionPreview": "I need someone to help me make my landing page responsive to screen size. Am a backend dev.",
+                        "cycles": 1000,
+                        "deadline": "2023-04-15T00:00:00.000Z",
+                        "status": "open",
+                        "slug": "make-my-landing-page",
+                        "solverPayout": 900,
+                        "timeCreated": "2023-04-11T11:46:24.456Z",
+                        "applicationCount": 6,
+                        "isUnlisted": false,
+                        "solver": null,
+                        "user": {
+                            "id": 19205255,
+                            "username": "toitek",
+                            "image": "https://storage.googleapis.com/replit/images/1677632608467_37245852af7d11ba2bef9e0a79187c7b.gif",
+                            "url": "/@toitek",
+                            "__typename": "User"
+                        },
+                        "__typename": "Bounty"
+                    },
+                    {
+                        "id": 1987,
+                        "title": "3D MARK BY EOW",
+                        "descriptionPreview": "Problem Description\nMaterialize mark, or all the marks, scale/quantity at hunter descrestion. First box to the doors wins the $$$\n\nhttps://drive.google.com/file/d/1Sj9cRJPIMJpEqq7nYYCEZ5ZMnPMFbM8w/view?usp=share_link\nhttps://photos.app.goo.gl/NN43HM9SRNbs4XRn8\nDo not pass go, do not apply, just give me marks plz.\nAcceptance Criteria\nMARK IRL to: Replit HQ c/o @Jesse, 677 Harrison StSan Francisco, CA 94107",
+                        "cycles": 25000,
+                        "deadline": "2023-04-26T00:00:00.000Z",
+                        "status": "open",
+                        "slug": "3d-mark-by-eow",
+                        "solverPayout": 22500,
+                        "timeCreated": "2023-04-11T08:40:51.149Z",
+                        "applicationCount": 3,
+                        "isUnlisted": false,
+                        "solver": null,
+                        "user": {
+                            "id": 12653746,
+                            "username": "jesse",
+                            "image": "https://storage.googleapis.com/replit/images/1660599530269_d4375f0df36f5137bac94db1a8af9e89.gif",
+                            "url": "/@jesse",
+                            "__typename": "User"
+                        },
+                        "__typename": "Bounty"
+                    },
+                    {
+                        "id": 1986,
+                        "title": "OAuth discord bot",
+                        "descriptionPreview": "Problem Description\nI need a discord bot that uses the \"Join servers for you\" permission on discord to add people to servers using a join-server command that only the owner of the bot can use I need to get people to accept the permission with an embed that says custom text that is sent using a command. I also need a check member command to see if someone is in the list of people who accepted the permission.\n\nTL;DR:\n4 commands\n!join-perm (sends embed with link for accepted discord's \"join servers for you\" permission)\n!join-server {Member Ammount} {Server ID} (Joins the server with the members who accepted)\n!check member {ID} (check if member has accepted permission)\n!net-stats (Show the number of total available users)\n\nAcceptance Criteria\nLots of NodeJS and discord experience\n\nTO GET ACCEPTED PUT YOUR DISCORD NAME AND TAG IN REQUEST!!!",
+                        "cycles": 500,
+                        "deadline": "2023-04-24T00:00:00.000Z",
+                        "status": "open",
+                        "slug": "oauth-discord-bot",
+                        "solverPayout": 450,
+                        "timeCreated": "2023-04-11T04:31:26.977Z",
+                        "applicationCount": 4,
+                        "isUnlisted": false,
+                        "solver": null,
+                        "user": {
+                            "id": 5278803,
+                            "username": "TheWeird11",
+                            "image": "https://www.gravatar.com/avatar/04df1ecfa7c39718f73854af1d922087?d=https://replit.com/public/images/evalbot/evalbot_23.png&s=256",
+                            "url": "/@TheWeird11",
+                            "__typename": "User"
+                        },
+                        "__typename": "Bounty"
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "nextCursor": "4",
+                    "__typename": "PageInfo"
+                }
+            }
+        }
+    }
+]
